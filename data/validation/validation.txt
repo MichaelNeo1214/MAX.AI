@@ -1,0 +1,10 @@
+Artificial intelligence adalah bidang ilmu komputer yang mempelajari cara membuat sistem komputer mampu melakukan tugas yang biasanya membutuhkan kecerdasan manusia.
+Machine learning adalah bagian dari artificial intelligence yang memungkinkan komputer mempelajari pola dari data dan menggunakan pola tersebut untuk membuat prediksi atau keputusan.
+Deep learning adalah pendekatan machine learning yang menggunakan neural network dengan banyak lapisan untuk mempelajari representasi data secara bertingkat.
+Neural network terdiri dari unit-unit komputasi yang disebut neuron. Neuron menerima input, melakukan operasi matematika menggunakan bobot dan bias, kemudian menghasilkan output melalui fungsi aktivasi.
+Training adalah proses ketika model menyesuaikan parameter internalnya berdasarkan data dan fungsi loss.
+Loss adalah nilai yang menggambarkan seberapa jauh prediksi model dari target yang diharapkan. Optimizer menggunakan informasi gradient untuk memperbarui parameter model agar loss dapat berkurang.
+Transformer adalah arsitektur neural network yang menggunakan mekanisme attention untuk memproses hubungan antar-token dalam suatu sequence.
+Self-attention memungkinkan setiap token mempertimbangkan token-token lain dalam sequence ketika menghasilkan representasinya.
+Tokenization adalah proses mengubah teks menjadi representasi token yang dapat diproses oleh model neural network.
+Dataset yang berkualitas harus memiliki informasi yang relevan, cukup beragam, bersih, dan tidak terlalu banyak mengandung duplikasi atau kesalahan.

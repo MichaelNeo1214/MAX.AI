@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset besar
+data/raw/
+data/downloaded/
+data/processed/
+data/*.txt
+data/*.json
+data/*.csv
+data/*.jsonl
+
+# HuggingFace cache
+.cache/
+.huggingface/
+.cache/huggingface/
+
+# Model/checkpoint besar
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
